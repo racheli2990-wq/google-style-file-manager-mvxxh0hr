@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">מנהל קבצים Google</string>
+    <string name="internal_storage">אחסון פנימי</string>
+    <string name="search_hint">חפש קבצים ותיקיות...</string>
+    <string name="empty_folder">התיקייה ריקה</string>
+    <string name="permission_required">נדרשת הרשאת גישה לקבצים</string>
+    <string name="grant_permission_desc">כדי לנהל, להציג ולערוך קבצים במכשיר, יש לאשר הרשאת גישה לאחסון.</string>
+    <string name="grant_permission_button">עבור להגדרות הרשאה</string>
+    <string name="new_folder">תיקייה חדשה</string>
+    <string name="new_folder_hint">שם התיקייה</string>
+    <string name="create">צור</string>
+    <string name="cancel">ביטול</string>
+    <string name="delete">מחק</string>
+    <string name="rename">שנה שם</string>
+    <string name="copy">העתק</string>
+    <string name="details">פרטים</string>
+    <string name="share">שתף</string>
+    <string name="confirm_delete">האם למחוק פריט זה?</string>
+    <string name="settings_title">הגדרות אפליקציה</string>
+    <string name="show_hidden_files">הצג קבצים נסתרים</string>
+    <string name="enable_thumbnails">הצג תמונות ממוזערות</string>
+    <string name="default_view">סגנון תצוגה ברירת מחדל</string>
+    <string name="default_sort">מיון ברירת מחדל</string>
+    <string name="sort_by_name">שם (א-ת)</string>
+    <string name="sort_by_date">תאריך שינוי</string>
+    <string name="sort_by_size">גודל קובץ</string>
+    <string name="sort_by_type">סוג קובץ</string>
+    <string name="list_view">רשימה</string>
+    <string name="grid_view">רשת</string>
+    <string name="clear_cache">נקה מטמון אפליקציה</string>
+    <string name="cache_cleared">המטמון נוקה בהצלחה</string>
+    <string name="save">שמור</string>
+    <string name="file_saved">הקובץ נשמר בהצלחה</string>
+    <string name="error_saving">שגיאה בשמירת הקובץ</string>
+    <string name="items_count">%1$d פריטים</string>
+    <string name="items_single">פריט 1</string>
+    <string name="used_storage">%1$s מתוך %2$s בשימוש</string>
+</resources>
