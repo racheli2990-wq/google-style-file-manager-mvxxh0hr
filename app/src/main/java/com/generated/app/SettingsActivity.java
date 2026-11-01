@@ -7,6 +7,8 @@ import android.widget.CompoundButton;
 import android.widget.Switch;
 import android.widget.Toast;
 
+import java.io.File;
+
 public class SettingsActivity extends Activity {
 
     private AppSettings settings;
